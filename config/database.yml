@@ -1,0 +1,7 @@
+development:
+  adapter: sqlserver
+  dsn: mydsn
+  mode: odbc
+  database: appsqlserver_development
+  username: sa
+  password: pronto
